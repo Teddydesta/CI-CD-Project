@@ -4,6 +4,7 @@ Step into the world of DevOps excellence with my Netflix clone project. Through 
 Security and code quality are paramount in today's landscape, which is why I've implemented a suite of tools including SonarQube, Trivy, and OWASP Dependency Check. These safeguards guarantee that your application remains secure and your code maintains the highest standards.
 Embark on this DevOps adventure with me and unlock the potential for seamless, secure, and efficient software deployment.
 ## Steps
+Code URL:- https://github.com/Teddydesta/Netflic_cicd.git
 
 1. Configure a server for Jenkins, Sonarqube and Docker
 2. Install Docker, Jenkins and Create a SonarQube Container
