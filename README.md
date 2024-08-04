@@ -1,4 +1,4 @@
-# Complete-CI-CD-for-Netfix
+# Complete-CI-CD-for-Netflix
 ### Intriduction
 Step into the world of DevOps excellence with my Netflix clone project. Through a meticulously crafted CI/CD pipeline orchestrated by Jenkins, I've elevated the deployment process to new heights using Docker containers. But the journey doesn't end there. Dive deeper and discover how I've integrated cutting-edge monitoring tools like Prometheus, Node Exporter, and Grafana to ensure peak performance.
 Security and code quality are paramount in today's landscape, which is why I've implemented a suite of tools including SonarQube, Trivy, and OWASP Dependency Check. These safeguards guarantee that your application remains secure and your code maintains the highest standards.
